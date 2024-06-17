@@ -1,0 +1,2 @@
+
+exec php app.php "$@"
